@@ -17,7 +17,7 @@ You can use this script without any installation steps, as long as you have Pyth
    ```bash
    git clone https://github.com/7go7/dokuwiki2wikijs.git
    cd <REPO>
-````
+   ```
 
 2. (Optional) Install `dokuwiki2markdown` for enhanced conversions:
 
